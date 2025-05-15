@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] <h1 align="center">Hi 👋, I'm Bruno Carrodeguas Díaz</h1>
+<h1 align="center">Hi 👋, I'm Bruno Carrodeguas Díaz</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carrodeguas06&label=Profile%20views&color=0e75b6&style=flat" alt="carrodeguas06" /> </p>
