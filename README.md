@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carrodeguas06" alt="carrodeguas06" /></a> </p>
 
-- 🔭 I’m currently studying on **Liceo La Paz**
+- 🔭 I’m currently studying at **CPR Liceo La Paz**
 
 - 🌱 I’m currently learning **DAM**
 
