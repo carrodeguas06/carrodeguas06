@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DAM at CPR Liceo La Paz**
 
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/carrodeguas06)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/carrodeguas06)
 
 - 📄 Know about my experiences at my [GitHub Pages](https://carrodeguas06.github.io/)
 
