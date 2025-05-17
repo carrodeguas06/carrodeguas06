@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DAM**
 
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/carrodeguas06)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/carrodeguas06)
 
-- 📄 Know about my experiences [on GitHub Pages](https://carrodeguas06.github.io/)
+- 📄 Know about my experiences at my [GitHub Pages](https://carrodeguas06.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
